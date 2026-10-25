@@ -9,11 +9,11 @@
 
 ## Tentang
 
-Pengembang backend dan web. Sehari-hari memakai Go dan Next.js, dengan perhatian khusus pada keamanan aplikasi.
+Suka bikin aplikasi dari backend sampai tampilan. Biasanya pakai Go dan Next.js, dan paling betah ngurusin keamanannya.
 
-## Sedang dikerjakan
+## Lagi dikerjakan
 
-- **Fynco**: aplikasi perencanaan anggaran daerah (RKA/DPA), realisasi dan SPJ, gudang, dan kearsipan. Go, Next.js, SQLite.
+**Fynco**, aplikasi perencanaan anggaran daerah: RKA/DPA, SPJ, gudang, dan arsip.
 
 ## Teknologi
 
