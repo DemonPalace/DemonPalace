@@ -1,25 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b10,100:9984d8&height=190&section=header&text=DemonPalace&fontColor=ffffff&fontSize=54&fontAlignY=40&desc=Backend%20%C2%B7%20Web%20%C2%B7%20Sistem%20berbasis%20AI&descSize=16&descAlignY=62" width="100%" alt="DemonPalace" />
-
-**Membangun sistem yang rapi, aman, dan benar-benar dipakai orang.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b10,100:9984d8&height=190&section=header&text=DemonPalace&fontColor=ffffff&fontSize=54&fontAlignY=40&desc=Backend%20%C2%B7%20Web%20%C2%B7%20Keamanan&descSize=16&descAlignY=62" width="100%" alt="DemonPalace" />
 
 <a href="https://github.com/DemonPalace?tab=repositories"><img src="https://img.shields.io/badge/Repositori-0b0b10?style=for-the-badge&logo=github&logoColor=9984d8" alt="Repositori" /></a>
 <img src="https://img.shields.io/github/followers/DemonPalace?label=Pengikut&style=for-the-badge&labelColor=0b0b10&color=9984d8" alt="Pengikut" />
-<img src="https://komarev.com/ghpvc/?username=DemonPalace&label=Kunjungan&style=for-the-badge&labelColor=0b0b10&color=9984d8" alt="Kunjungan" />
 
 </div>
 
 ## Tentang
 
-Saya mengerjakan aplikasi dari ujung ke ujung: API di **Go**, antarmuka di **Next.js**, dan alur kerja yang melibatkan **agen AI**. Prinsip saya sederhana: kode yang mudah dibaca, keamanan dipikirkan sejak awal, dan fitur yang diuji sebelum dikirim.
+Pengembang backend dan web. Sehari-hari memakai Go dan Next.js, dengan perhatian khusus pada keamanan aplikasi.
 
-## Yang sedang dikerjakan
+## Sedang dikerjakan
 
-| Proyek | Isi |
-| --- | --- |
-| **Fynco** | Perencanaan anggaran daerah (RKA/DPA), realisasi dan SPJ, gudang, kearsipan, dengan tim agen AI yang bekerja dan saling serah data. Go, Next.js, SQLite. |
-| **Keamanan aplikasi** | Deteksi serangan, audit log berantai hash, dan pemutusan koneksi otomatis saat ada eksekusi kode. |
+- **Fynco**: aplikasi perencanaan anggaran daerah (RKA/DPA), realisasi dan SPJ, gudang, dan kearsipan. Go, Next.js, SQLite.
 
 ## Teknologi
 
