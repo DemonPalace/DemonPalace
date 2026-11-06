@@ -9,6 +9,8 @@ Currently building
 
 Fynco: budget planning for local governments, covering RKA/DPA, SPJ, inventory, and archives.
 
+DoneCheck: a CLI/TUI that checks a project with evidence (vet, vulnerability scan, leaked keys, broken JSON) instead of trusting an AI's "it's done." github.com/DemonPalace/DoneCheck
+
 Stack
 
 <div align="center">  <img src="https://skillicons.dev/icons?i=go,ts,nextjs,react,tailwind,nodejs,py,sqlite,docker,githubactions,linux,git&perline=12" alt="Stack" />  </div>  Stats
